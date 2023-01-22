@@ -1,2 +1,1 @@
-# simple profile profile blog
- 
+# Simple Profile: Profile and Blog
