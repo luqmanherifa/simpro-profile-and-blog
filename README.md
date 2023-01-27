@@ -1,1 +1,1 @@
-# Simpro - Profile and Blog
+# Simpro: Profile and Blog
